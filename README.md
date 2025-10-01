@@ -4,5 +4,5 @@ If you see this file on my project, it's because i'm learning Git.
 ## My mood:
 Happy
 ## My favorite color:
->Blue<<EOL
-Thank you so much for reading!
+Blue
+# Thank you so much for reading!
